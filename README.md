@@ -14,3 +14,5 @@ Se añadio color y separacion de las lineas para resaltar el mapa
 De igual forma con la ayuda del CSS se aplico de forma interactiva un cambio de color al pasar el mouse por encima del mapa
 
 ![image](https://user-images.githubusercontent.com/105820629/195163351-6bd2d447-197c-4921-b080-598ea1995b18.png)
+
+Una vez se da click en la imagen procede a redireccionarlo a una googlemaps marcando la locacion en este caso de la sucursal
