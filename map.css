@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  place-content: center;
+}
+
+.container {
+  width: 50%;
+}
+
+.container path {
+  fill: rgb(45, 122, 238);
+  stroke: rgb(23, 22, 22);
+  stroke-width: 2px;
+}
+
+.container :hover {
+  fill: #deed7a;
+}
